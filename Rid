@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Project Title Here</title>
+    <link rel ="stylesheet" href="flipbox.css">
+</head>
+<body>
+    <h1>Add Your Title Here!!</h1>
+    <p>Add your general response here. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore maxime quas aliquid provident asperiores quisquam impedit rerum dolore, vitae quod porro sequi quia cupiditate officia officiis aspernatur. Adipisci, earum neque.lorem. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure aperiam eum tenetur cupiditate quod saepe repellat eos illum reiciendis pariatur, itaque alias quisquam, exercitationem ut blanditiis inventore laboriosam natus cumque!</p>
+<h3>Hover over the box below:</h3>
+
+<article>
+
+<!-- Beginning of 1st Flip Box -->
+<div class="flip-box">
+  <div class="flip-box-inner">
+    <div class="flip-box-front">
+      <h2>Topic Title Here</h2>
+      <!-- Add an image here -->
+    </div>
+    <div class="flip-box-back">
+      <h2>Back Side</h2>
+      <p>
+          Add information here
+      </p>
+    </div>
+  </div>
+</div>
+<!-- End of the flip Box-->
+
+
+
+<!-- Beginning of 2nd Flip Box -->
+<div class="flip-box">
+    <div class="flip-box-inner">
+      <div class="flip-box-front">
+        <h2>Topic Title Here</h2>
+        <!-- Add an image here -->
+      </div>
+      <div class="flip-box-back">
+        <h2>Back Side</h2>
+        <p>
+            Add information here
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- End of the 2nd flip Box-->
+
+
+  
+<!-- Beginning of 3rd Flip Box -->
+<div class="flip-box">
+    <div class="flip-box-inner">
+      <div class="flip-box-front">
+        <h2>Topic Title Here</h2>
+        <!-- Add an image here -->
+      </div>
+      <div class="flip-box-back">
+        <h2>Back Side</h2>
+        <p>
+            Add information here
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- End of the 3rd flip Box-->
+
+
+  
+<!-- Beginning of 4th Flip Box -->
+<div class="flip-box">
+    <div class="flip-box-inner">
+      <div class="flip-box-front">
+        <h2>Topic Title Here</h2>
+        <!-- Add an image here -->
+      </div>
+      <div class="flip-box-back">
+        <h2>Back Side</h2>
+        <p>
+            Add information here
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- End of the 4th flip Box-->
+
+
+  
+<!-- Beginning of 5th Flip Box -->
+<div class="flip-box">
+    <div class="flip-box-inner">
+      <div class="flip-box-front">
+        <h2>Topic Title Here</h2>
+        <!-- Add an image here -->
+      </div>
+      <div class="flip-box-back">
+        <h2>Back Side</h2>
+        <p>
+            Add information here
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- End of the 5th flip Box-->
+</article>
+</body>
+</html>
