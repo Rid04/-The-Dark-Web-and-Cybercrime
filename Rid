@@ -8,9 +8,7 @@
     <link rel ="stylesheet" href="flipbox.css">
 </head>
 <body>
-    <h1>Add Your Title Here!!</h1>
-    <p>Add your general response here. Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore maxime quas aliquid provident asperiores quisquam impedit rerum dolore, vitae quod porro sequi quia cupiditate officia officiis aspernatur. Adipisci, earum neque.lorem. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure aperiam eum tenetur cupiditate quod saepe repellat eos illum reiciendis pariatur, itaque alias quisquam, exercitationem ut blanditiis inventore laboriosam natus cumque!</p>
-<h3>Hover over the box below:</h3>
+    <h1>What is a computer Worm? Computer Virus?!!</h1>
 
 <article>
 
@@ -18,13 +16,12 @@
 <div class="flip-box">
   <div class="flip-box-inner">
     <div class="flip-box-front">
-      <h2>Topic Title Here</h2>
+      <h2>Although similar, what is the technical difference between a computer virus and a computer worm?</h2>
       <!-- Add an image here -->
     </div>
     <div class="flip-box-back">
       <h2>Back Side</h2>
-      <p>
-          Add information here
+      <p>A computer worm is a type of malware that spreads copies of itself from computer to computer. A computer virus is a type of malicious code or program written to alter the way a computer operates and is designed to spread also..
       </p>
     </div>
   </div>
@@ -37,13 +34,16 @@
 <div class="flip-box">
     <div class="flip-box-inner">
       <div class="flip-box-front">
-        <h2>Topic Title Here</h2>
+        <h2> Although similar, what is the technical difference between a computer virus and a computer worm?
+</h2>
         <!-- Add an image here -->
       </div>
       <div class="flip-box-back">
         <h2>Back Side</h2>
         <p>
-            Add information here
+           
+One requires a host file and human activation to spread, while the other doesn’t. A worm can replicate itself without any human interaction, and it does not need to attach itself to a software program in order to cause damage
+
         </p>
       </div>
     </div>
@@ -56,14 +56,16 @@
 <div class="flip-box">
     <div class="flip-box-inner">
       <div class="flip-box-front">
-        <h2>Topic Title Here</h2>
+        <h2>What are some(3) examples of a computer virus?</h2>
         <!-- Add an image here -->
       </div>
       <div class="flip-box-back">
         <h2>Back Side</h2>
         <p>
-            Add information here
-        </p>
+           The first example of a computer  worm is the SQL Slammer Caused global Internet slowdown. The worm may have little impact in today's cyber era but still could pose a threat if mass spread arises. 
+  The Second example of a worm is called  Sober with the alias of  CME-681, WORM_SOBER.AG known for disguising as an email from the United States government. Could provide links or phishing scams in email can be mass spread and still pose a threat especially during Tax Filing Season.    
+The Third example is a mere famous one; the Morris was Widely considered to be the first computer worm. Although created for academic purposes, the negligence of the author unintentionally caused the worm to act as a denial of service attack. It spread by exploiting known vulnerabilities in UNIX-based systems, cracked weak passwords, and periodically altered its process ID to avoid detection by system operators.
+ </p>
       </div>
     </div>
   </div>
@@ -75,14 +77,12 @@
 <div class="flip-box">
     <div class="flip-box-inner">
       <div class="flip-box-front">
-        <h2>Topic Title Here</h2>
+        <h2>In what year were these examples of malware first reported?</h2>
         <!-- Add an image here -->
       </div>
       <div class="flip-box-back">
         <h2>Back Side</h2>
-        <p>
-            Add information here
-        </p>
+        <p>Malware was early reported back to 1998 with morris malware being the most common at the time</p>
       </div>
     </div>
   </div>
@@ -94,13 +94,15 @@
 <div class="flip-box">
     <div class="flip-box-inner">
       <div class="flip-box-front">
-        <h2>Topic Title Here</h2>
+        <h2>:What can we all do to safeguard a computer against a virus or a worm?</h2>
         <!-- Add an image here -->
       </div>
       <div class="flip-box-back">
         <h2>Back Side</h2>
         <p>
-            Add information here
+            Investing into a virus and malware software procter can help shield off and detect worms and viruses. Also an adblocker on your computer can always help worms from spreading. 
+
+
         </p>
       </div>
     </div>
